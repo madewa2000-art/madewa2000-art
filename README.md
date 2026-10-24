@@ -1,6 +1,6 @@
 ## Hi, I'm Oluwamadewa
 
-I'm 21 and based in Abuja. I build web apps and look after the boring parts that keep them safe: payments, sign-ins, who can reach the database.
+I'm 21 and based in Abuja/Lagos. I build web apps and look after the boring parts that keep them safe: payments, sign-ins, who can reach the database.
 
 I studied Electrical and Electronics Engineering at Bowen University (2025), did a network engineering internship at FCMB, and this year finished Aptech's Advanced Diploma in Software Engineering (Java and AI track) with a Distinction. I also completed Cisco's Cybersecurity Essentials through NITDA Academy, and security is where I'm heading next.
 
