@@ -16,7 +16,7 @@ I'm the only developer on the ARC sites, so I design, build, deploy and fix them
 ### What I use
 
 - **Day to day:** JavaScript, React, Node.js, Express, PostgreSQL, Paystack, Stripe, Railway
-- **From my diploma:** Java (Jakarta EE, Spring), Python, C#, C, Dart and Flutter, SQL Server, MongoDB
+- **Learnt:** Java (Jakarta EE, Spring), Python, C#, C, Dart and Flutter, SQL Server, MongoDB
 - **AI and ML:** machine learning, NLP and neural networks in Python
 - **Networking:** Cisco routing and switching, from my time at FCMB
 
