@@ -2,7 +2,7 @@
 
 I'm 21 and based in Lagos. I build web apps and look after the boring parts that keep them safe: payments, sign-ins, who can reach the database.
 
-I studied Electrical and Electronics Engineering at Bowen University (2025), did a network engineering internship at FCMB, and this year finished Aptech's Advanced Diploma in Software Engineering (Java and AI track) with a Distinction. I also completed Cisco's Cybersecurity Essentials through NITDA Academy, and security is where I'm heading next.
+I studied Electrical and Electronics Engineering at Bowen University (2025), did a network engineering internship at FCMB, and this year finished Aptech's Advanced Diploma in Software Engineering (Java and AI track) with a Distinction. I also completed Cisco's [Junior Cybersecurity Analyst career path](https://www.credly.com/badges/e93956ba-7d2b-4eea-aaa5-e5dfff939c69) through NITDA Academy, and security is where I'm heading next.
 
 ### What I've built
 
@@ -22,4 +22,5 @@ I'm the only developer on the ARC sites, so I design, build, deploy and fix them
 
 ### Reach me
 
-mwalefatade@gmail.com
+- Email: mwalefatade@gmail.com
+- LinkedIn: [linkedin.com/in/oluwamadewa-wale-fatade](https://www.linkedin.com/in/oluwamadewa-wale-fatade)
